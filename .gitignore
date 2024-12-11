@@ -3,4 +3,10 @@
 # python specific
 __pycache__/
 
+# config foler (no user data in the repository)
+config/
+
+# any test file output
+*.tar.gz
+
 # EOF
