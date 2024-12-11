@@ -1,0 +1,6 @@
+# project level git ignore file
+
+# python specific
+__pycache__/
+
+# EOF
